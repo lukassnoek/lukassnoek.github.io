@@ -7,16 +7,26 @@ redirect_from:
   - /teaching.html
 ---
 
-As part of my PhD, I co-teach two courses about (functional) MRI analyses at the Research Master Psychology (U. of Amsterdam), which I love doing! 
+At the University of Amsterdam, I (co-)teach several courses related to neuroimaging, (Python) programming, and statistics and methodology, including machine learning and AI. I have made some of the material I developed for these courses publicly accessible, as described below.
 
-## Courses
-A large part of the two (f)MRI analysis courses that I co-teach (with [Noor Seijdel](http://www.noorseijdel.com/) and [Steven Scholte](https://www.uva.nl/profiel/s/c/h.s.scholte/h.s.scholte.html)) consists of programming tutorials/exercises in the form of [Jupyter notebooks](https://jupyter.org/). These notebooks walk students through the most important concepts of the course's topics by showing how certain ideas, operations, and models can be implemented in (and visualized with) Python code. Importantly, these notebooks contain many excersises ("ToThinks" and "ToDos") to make students actively engage with the material. Before the end of my PhD, I aim to make the notebooks from the two courses publicly available.
+## NI-edu
+Together with [Noor Seijdel](http://www.noorseijdel.com) and [Steven Scholte](https://www.uva.nl/profiel/s/c/h.s.scholte/h.s.scholte.html), I (re)designed and developed two courses about functional MRI analysis: *Neuroimaging: BOLD-MRI* and the follow-up course *Neuroimaging: pattern analysis*. Under the name *NI-edu*, I released the hands-on programming tutorials from these courses on the following website: [https://lukas-snoek.com/NI-edu](https://lukas-snoek.com/NI-edu).
 
-### Introduction to (f)MRI
-In this eight-week (6 EC) course, we discuss the process of (functional) MRI data analysis and interpretation. The course consists of weekly lectures, computer labs (with Python-based Jupyter notebooks), and interactive seminars. The course has a practical focus (i.e., how you implement analyses) and is centered around my favorite statistical model, the general linear model (GLM), and how it is applied in the context of (functional) MRI data analysis.
+![niedu_screenshot](../../images/screenshot-ni-edu.png)
 
-We are in the process of fully open-sourcing the material. For more information, check the [NI-edu website](https://neuroimaging-uva.github.io/NI-edu). To check out the notebooks directly, check the associated [Github repository](https://github.com/Neuroimaging-UvA/NI-edu).
+## introPy
+The Research Master Psychology at the University of Amsterdam offers a full-time, four-week introductory programming course ("Programming in Psychological Science"). This course includes a two-week introduction to [R](https://www.r-project.org/) followed by two weeks of advanced R or a two-week introduction to Python and the stimulus presentation program PsychoPy, which I developed. Like the fMRI courses, I made all the material publicly accessible on the following website: [https://lukas-snoek.com/introPy](https://lukas-snoek.com/introPy).
 
-### Pattern analysis
-In this four-week (3 EC) course, we discuss a specific subset of neuroimaging analyses: pattern analyses (also known as MVPA or information-based analysis). We mainly focus on machine-learning based analyses ("decoding") and representational similarity analysis (RSA). We aim to release the materials sometime mid-2020 (on the same [website](https://neuroimaging-uva.github.io/NI-edu) and [Github repository](https://github.com/Neuroimaging-UvA/NI-edu)).
+![intropy_screenshot](../../images/screenshot_intropy.png)
 
+## The Psychology of AI
+This eight-week course features a new topic related to psychology and artificial intelligence, ranging from "good old fashioned AI" to deep learning to AI ethics. For this course, I created two introductory tutorials about neural networks for which students do not need any programming experience. Check them out below!
+
+### Building neural networks in your browser
+This tutorial uses the online [Tensorflow Playground](https://playground.tensorflow.org/) app to introduce students to the idea of simple ("fully-connected") neural networks. View it [here](https://docs.google.com/document/d/e/2PACX-1vSENVbx9nuIWyvDiuHd7mNc0SaI9Yapadjwm5iXN7GXIWZ92tAf9NqdnD5Bb4YH3Vqb8VeG_PAM1aoY/pub)!
+
+### An introduction to convolutional neural networks
+This tutorial focuses on *convolutional* neural networks (CNNs) and leverages the excellent [CNN explainer](https://poloclub.github.io/cnn-explainer/) web app to explain the key concepts behind CNNs. View it [here](https://docs.google.com/document/d/e/2PACX-1vT18r6F_RXSZGBfQia_1GTjmXVG95LRQncvPoiG5-LWCGd6suJ4CxsNtIUbHtK-9sdT4q58rEhTAb9L/pub)!
+
+### Creating your own CNN
+For one of the group assignments of this course, students have to create, train, and evaluate their own CNN model on a topic/dataset of their choice using [Teachable Machine](https://teachablemachine.withgoogle.com/). Check out the tutorial/assignment [here](https://docs.google.com/document/d/e/2PACX-1vRzXVmKS4lFcpO2fu97979Wo2VOTDsrJK_92-P7Eczv2o2x4FPlOtf8ELYBtPstnU4d2arns7dAJxfC/pub)!
