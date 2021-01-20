@@ -53,7 +53,7 @@ You can find extensive documentation and download links [here](https://timvanmou
 
 ### VoxelViz
 For the VPS-competition ("Develop an original application for a virtual private server")
-by [TransIp](https://www.transip.nl/), I've developed an online MRI-viewer - "VoxelViz". While it's offline now, the code can be viewed [here](https://github.com/lukassnoek/VoxelViz).
+by [TransIp](https://www.transip.nl/), I've developed an online MRI-viewer &mdash; "VoxelViz". While it's offline now, the code can be viewed [here](https://github.com/lukassnoek/VoxelViz).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lukassnoek/VoxelViz/master/img/model.gif">

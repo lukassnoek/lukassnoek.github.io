@@ -38,7 +38,7 @@ In the first week of our introductory (f)MRI course, we have students go through
 ### MVPA of fMRI data in Python
 At the "International Conference of Cognitive Neuroscience" 2017, [Steven Miletic](https://scholar.google.com/citations?user=uH8UtcUAAAAJ&hl=en) and I organized a workshop on "MVPA of fMRI data in Python", which consisted of a short introduction on the topic and an extensive tutorial (as a Jupyter notebook, of course). For more information and how to get started, check out the workshop's website [here](https://lukas-snoek.com/ICON2017/). 
 
-**Update**: the [decoding tutorial](https://lukas-snoek.com/NI-edu/fMRI-pattern-analysis/week_2/decoding_analyses.html) from the NI-edu course is an updated, more extensive version of the MVPA workshop!
+*Update*: the [decoding tutorial](https://lukas-snoek.com/NI-edu/fMRI-pattern-analysis/week_2/decoding_analyses.html) from the NI-edu course is an updated, more extensive version of the MVPA workshop!
 
 ### (Git)hub for scientists
 I gave a short, introductory workshop on (Git)hub for the people of the [Conscious Brain Lab](https://www.consciousbrainlab.com/) (led by Simon van Gaal & Johannes Fahrenfort). Check out the slides below. 
@@ -67,7 +67,7 @@ Together with [Jolien Francken](https://jolienfrancken.com/) en [Lola Beerendonk
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRoJKM--Gq0DZAdkcTZ86NeaPe2VOIrFqBWsA5wmYkzcoepypQ42O5tgLX5Q9Fx1Jv-sOkQoY9ceYQI/embed?start=true&loop=false&delayms=120000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-#### Introduction to Multivariate Pattern Analysis
+### Introduction to Multivariate Pattern Analysis
 For the fMRI course at the [Spinoza Centre for Neuroimaging](https://www.spinozacentre.nl/opportunities/courses/fmri-course/), I gave a presentation about "Multivariate Pattern Analysis" (MVPA), which was adapted from the NI-edu (pattern analysis) course.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQEJ1ImL9rO42MBohhQwQvCTebRzy7I3JxN_5KaSb6aWdTHSrVYycvLcFYzX45Xs2oznjSOTNfeT62f/embed?start=true&loop=false&delayms=120000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -79,7 +79,7 @@ For the "Consciousness, Attention, & Perception" (CAP) meeting, I presented a [p
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRYz0MpG1_qphEdwXXb2M8x3GD1O-pvww0mbAudb0o0cG4qrnb1L19Y3Pk7UViDW7Wan_J3sIm_wv3r/embed?start=true&loop=false&delayms=120000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-#### Het (on)meetbare brein (In Dutch)
+### Het (on)meetbare brein (In Dutch)
 I gave a popular science talk about the promises and pitfalls of neuroimaging at [Spui 25](https://www.spui25.nl/en).
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRTPyIjSR6sDW4JKzX95hSIw-bpq-K7v2AFKnL184gjDzhDhSexV2AGYcYvw-ONVnAxhqi9iXbOA2Y9/embed?start=true&loop=false&delayms=120000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
