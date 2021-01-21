@@ -8,8 +8,4 @@ redirect_from:
   - /cv.html
 ---
 
-<object data="https://lukas-snoek.com/files/cv.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://lukas-snoek.com/files/cv.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://lukas-snoek.com/files/cv.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSvqXeTY1jpRoQRw_sB5JWoLQ_ny7_e0feKU2WIjsYb67schpP68YWgOazVlf391OPYl176ukDYJPXO/pub?embedded=true"></iframe>

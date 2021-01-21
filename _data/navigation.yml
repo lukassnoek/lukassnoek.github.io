@@ -3,11 +3,11 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Research"
-    url: /research/    
-
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Research"
+    url: /research/    
 
   - title: "Resources"
     url: /resources/    
@@ -15,7 +15,7 @@ main:
   - title: "Software"
     url: /software/
         
-  - title: "data"
+  - title: "Data"
     url: /data/
     
   - title: "CV"
