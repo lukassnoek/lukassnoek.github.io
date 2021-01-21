@@ -21,4 +21,4 @@ As part of my PhD, I also (co-)teach various courses of the Bachelor and (Resear
 * Neuroimaging: BOLD-MRI (ResMas Psychology)
 * Neuroimaging: pattern analysis (ResMas Psychology)
 
-You can find more information about my [research](research.md), [software](software.md), [data](data.md) and [teaching](teaching.md) on this website. To be informed about new research, data, or software, it's probably best to follow me on [twitter](https://twitter.com/LukasSnoek) and/or [Github](https://github.com/lukassnoek).
+You can find more information about my [research](research.md), [software](software.md), [data](data.md), [teaching](teaching.md) and [other resoures](resources.md) on this website. To be informed about new research, data, or software, it's probably best to follow me on [twitter](https://twitter.com/LukasSnoek) and/or [Github](https://github.com/lukassnoek).

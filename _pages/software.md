@@ -24,7 +24,7 @@ The code can be found on [Github](https://github.com/NILAB-UvA/bidsify). The REA
 Ever tried to distill volume triggers from Philips physiology ("SCANPHYSLOG") files? Trust me, it's frustrating. I created a small package to do this using either trigger markers, or based on the scanner's gradients (if they're logged), or, if everything else fails, to interpolate volume triggers "counting backwards" from the offset of the acquisition. Check it out [here](https://github.com/lukassnoek/scanphyslog2bids).
 
 <p align="center">
-  <img src="/img/sub-xxxx_task-emorecognition_acq-seq_recording-respcardiac_physio_alignment.png" width="1000" height="300">
+  <img src="../../images/sub-xxxx_task-emorecognition_acq-seq_recording-respcardiac_physio_alignment.png" width="1000" height="300">
 </p>
 
 ## exptools2
@@ -34,7 +34,7 @@ Many experimental paradigms in psychology/neuroscience are created programmatica
 Inspired by the *scikit-learn* (often abbreviated as *sklearn*) machine learning package in Python, I created *skbold* - a package aimed at complementing *scikit-learn* in the organization, representation, and (pre)processing of fMRI data for machine learning ("decoding") analyses.
 The package aims for flexibility in the sense that the annoying part of building decoding pipelines (such as getting it in the right format, keeping track of model performance) is taken care of, while the users can still build the actual pipelines using *scikit-learn* functionality.
 
-![skbold](img/scope.png)
+![skbold](../../images/scope.png)
 
 The code can be found on [Github](https://github.com/lukassnoek/skbold) and the
 documentation on [ReadTheDocs](https://skbold.readthedocs.io).
@@ -44,7 +44,7 @@ While working on Spynoza during the [BrainHack](https://piloubazin.github.io/ams
 
 In short, Porcupine is a graphical application that allows you build processing pipelines by defining "nodes" - that implement some function (such as an MRI-processing step) - and connections between them, and importantly then is able to generate the code that would be needed to actually run the pipeline as defined in Porcupine! For example, one framework Porcupine supports is the amazing [Nipype](http://nipype.readthedocs.io/en/latest/) framework. So, you could for example build a Porcupine-pipeline implementing an MRI-preprocessing pipeline based on "nodes" from different software packages (such as FSL, AFNI, and Freesurfer) and subsequenly let Porcupine generate the (Nipype-based) code that you can actually run!
 
-![porcupine](img/porcupine_screenshot_nodes_only.png)
+![porcupine](../../images/porcupine_screenshot_nodes_only.png)
 
 You can find extensive documentation and download links [here](https://timvanmourik.github.io/Porcupine).
 
