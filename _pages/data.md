@@ -23,5 +23,7 @@ For more information about this dataset, check out the Twitter thread below.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I just uploaded a new dataset on <a href="https://twitter.com/OpenNeuroOrg?ref_src=twsrc%5Etfw">@OpenNeuroOrg</a> containing task-based fMRI (working memory) acquired with different multiband EPI (varying in spatial and temp resolution) and a sequential EPI sequence for comparison! <a href="https://t.co/OxSsAiYWnT">https://t.co/OxSsAiYWnT</a></p>&mdash; Lukas Snoek (@LukasSnoek) <a href="https://twitter.com/LukasSnoek/status/1234803443505729536?ref_src=twsrc%5Etfw">March 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## dStreamUpgrade
+Our 3T Philips Achieva scanner got a major (dStream) upgrade in 2017. This upgrade allows the scanner to digitize the signal a lot earlier than before, theoretically improving the signal-to-noise ratio (SNR) a lot. To investigate this, we acquired data from the same 24 subjects using the same scan sequences (T1-weighted structural MRI, task-based and resting-state functional MRI, and DWI) before and after the upgrade. The raw and preprocessed data is available on [OpenNeuro](https://openneuro.org/datasets/ds003495) and the (differences in) temporal SNR maps and activation maps can be found on [NeuroVault](https://identifiers.org/neurovault.collection:9401).
 
 
