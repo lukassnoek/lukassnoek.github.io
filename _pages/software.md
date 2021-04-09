@@ -9,6 +9,9 @@ redirect_from:
 
 For my research and duties at the [Spinoza Centre for Neuroimaging](https://www.spinozacentre.nl/) (location Roeterseiland), I have developed several software packages (of which most using Python). You can find a selection below, but see my [personal Github](https://github.com/lukassnoek) and the [Spinoza Centre's Github](https://github.com/orgs/NILAB-UvA) for a complete overview.
 
+## noiseceiling
+In machine learning analyses, researchers often try to maximize cross-validated model performance (e.g., R-squared or classification accuracy). Due to measurement noise, however, the theoretical maximum performance score is not the same as the optimal performance score. I wrote some code that estimates such a noise ceiling for any regression model (assuming R-squared is used) or classification model (any metric), available as a Python package [here](https://github.com/lukassnoek/noiseceiling).
+
 ## bidsify
 Widespread sharing of neuroimaging data is, unfortunately, not common in the
 neuroscience community. In the past years, some researchers have proposed a common format for MRI datasets - the Brain Imaging Data Structure ([BIDS](http://bids.neuroimaging.io/)) - which aims at improving data sharing, reproducibility, and transparency through providing a guidelines on how to organize your data (which can be, subsequently, be uploaded to [openneuro.org](https://openneuro.org/) very easily).
